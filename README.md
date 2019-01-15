@@ -7,5 +7,4 @@ Second change: additional line at the very end of the file.
 
 After reset: change of the file.
 
-Ovo je u bran1.
 
